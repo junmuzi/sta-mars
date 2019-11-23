@@ -1,6 +1,6 @@
 # sta-mars
 
-This our STA-MARS, which based on the published MARS [1] codes. The basic configure steps please ref [2].
+This is our STA-MARS, which based on the published MARS [1] codes. The basic configure steps please ref [2].
 
 [1] MARS: Motion-augmented rgb stream for action recognition, CVPR 2019
 [2] https://github.com/craston/MARS
